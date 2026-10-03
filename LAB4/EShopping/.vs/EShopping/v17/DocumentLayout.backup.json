@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|c:\\users\\admin\\source\\repos\\eshopping\\eshopping\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\danhsachspform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\danhsachspform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\danhsachspform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\danhsachspform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|C:\\Users\\ADMIN\\source\\repos\\EShopping\\eshopping\\forms\\danhsachspform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6D6118C-3092-4490-A190-81AE1F39F327}|EShopping\\EShopping.csproj|solutionrelative:eshopping\\forms\\danhsachspform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachSPForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.Designer.cs",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\DanhSachSPForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.Designer.cs",
+              "RelativeToolTip": "EShopping\\Forms\\DanhSachSPForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T04:27:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachSPForm.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.resx",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\DanhSachSPForm.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.resx",
+              "RelativeToolTip": "EShopping\\Forms\\DanhSachSPForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T04:27:22.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "EShopping\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T04:27:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.resx",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\MainForm.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.resx",
+              "RelativeToolTip": "EShopping\\Forms\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T04:27:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.cs",
+              "RelativeToolTip": "EShopping\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T03:52:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "EShopping\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T03:52:22.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhSachSPForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.cs",
+              "RelativeDocumentMoniker": "EShopping\\Forms\\DanhSachSPForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\EShopping\\EShopping\\Forms\\DanhSachSPForm.cs [Design]",
+              "RelativeToolTip": "EShopping\\Forms\\DanhSachSPForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T03:41:24.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
