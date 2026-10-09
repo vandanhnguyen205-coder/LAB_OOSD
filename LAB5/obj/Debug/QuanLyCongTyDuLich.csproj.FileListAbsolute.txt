@@ -1,0 +1,8 @@
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\bin\Debug\QuanLyCongTyDuLich.exe.config
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\bin\Debug\QuanLyCongTyDuLich.exe
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\bin\Debug\QuanLyCongTyDuLich.pdb
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\obj\Debug\QuanLyCongTyDuLich.csproj.AssemblyReference.cache
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\obj\Debug\QuanLyCongTyDuLich.exe
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\obj\Debug\QuanLyCongTyDuLich.pdb
+D:\HocTap\OOP\LAB5_QuanLyCongTyDuLich_DESIGNER\obj\Debug\QuanLyCongTyDuLich.exe.config
