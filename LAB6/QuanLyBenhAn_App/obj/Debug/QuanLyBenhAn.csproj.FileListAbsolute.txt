@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\bin\Debug\QuanLyBenhAn.exe.config
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\bin\Debug\QuanLyBenhAn.exe
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\bin\Debug\QuanLyBenhAn.pdb
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\obj\Debug\QuanLyBenhAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\obj\Debug\QuanLyBenhAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\obj\Debug\QuanLyBenhAn.exe
+C:\Users\ADMIN\Downloads\QuanLyBenhAn_App\obj\Debug\QuanLyBenhAn.pdb
