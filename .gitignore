@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Tệp biên dịch
+obj/
+bin/
+[Dd]ebug/
+[Rr]elease/
