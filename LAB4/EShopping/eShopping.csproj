@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A8B7C6D-5432-10FE-DCBA-9876543210FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>eShopping</RootNamespace>
+    <AssemblyName>eShopping</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Data\Db.cs" />
+    <Compile Include="Models\Entities.cs" />
+    <Compile Include="Services\ProductSystemAdapter.cs" />
+    <Compile Include="Services\GioHangService.cs" />
+    <Compile Include="Services\TaiKhoanService.cs" />
+    <Compile Include="Services\DatHangService.cs" />
+    <Compile Include="Services\EmailService.cs" />
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DanhSachSPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DanhSachSPForm.Designer.cs">
+      <DependentUpon>DanhSachSPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ChiTietSPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChiTietSPForm.Designer.cs">
+      <DependentUpon>ChiTietSPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GioHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GioHangForm.Designer.cs">
+      <DependentUpon>GioHangForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DangNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DangNhapForm.Designer.cs">
+      <DependentUpon>DangNhapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DangKyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DangKyForm.Designer.cs">
+      <DependentUpon>DangKyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DatHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DatHangForm.Designer.cs">
+      <DependentUpon>DatHangForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XacNhanDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XacNhanDonForm.Designer.cs">
+      <DependentUpon>XacNhanDonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Data\eShopping.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
