@@ -16,6 +16,9 @@
 | **LAB3** | Ứng dụng quản lý khách sạn | `C# WinForms` · `SQL Server` |
 | **LAB4** | Ứng dụng quản lý eShopping | `C# WinForms` · `SQL Server` |
 | **LAB5** | Hệ thống quản lý công ty du lịch văn hóa Việt | `C# WinForms` · `SQL Server` · `UML` |
+| **LAB6** | Ứng dụng quản lý bệnh án | `C# WinForms` · `SQL Server` |
+| **LAB7** | Ứng dụng quản lý nhân sự | `C# WinForms` · `SQL Server` |
+| **LAB8** | Ứng dụng quản lý cho thuê văn phòng | `C# WinForms` · `SQL Server` |
 
 ## 🎯 Tổng quan
 
@@ -34,7 +37,13 @@ LAB_OOSD/
 │   └── README.md
 ├── LAB4/   # eShopping
 │   └── README.md
-└── LAB5/   # Quản lý công ty du lịch
+├── LAB5/   # Quản lý công ty du lịch
+│   └── README.md
+├── LAB6/   # Quản lý bệnh án
+│   └── README.md
+├── LAB7/   # Quản lý nhân sự
+│   └── README.md
+└── LAB8/   # Quản lý cho thuê văn phòng
     └── README.md
 ```
 
@@ -49,5 +58,3 @@ LAB_OOSD/
 | **Mã sinh viên** | 1250080027 |
 
 ---
-
-
